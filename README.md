@@ -1,6 +1,5 @@
-# Chatbot_calc_simple
-📟 Calculator Chatbot
-A simple chatbot that performs calculations. Built using Flask for the backend and HTML, CSS, and JavaScript for the frontend.
+# 📟 Calculator Chatbot
+This is just a simple chatbot that performs calculations. i built it using Flask for the backend and HTML, CSS, and JavaScript for the frontend.
 
 # 🛠️ Features
 Perform Basic Calculations: Type in your arithmetic expressions and get instant results.
