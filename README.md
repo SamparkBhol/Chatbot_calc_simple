@@ -10,5 +10,6 @@ User-Friendly Interface: Easy-to-use chat interface with a clean design.
 Follow these instructions to get the project up and running on your local machine.
 
 # Prerequisites
-Python 3.x
-Flask
+1. Python 3.x
+
+2. Flask
